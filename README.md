@@ -16,6 +16,6 @@ You can contact me at this email address ---> pablotutormoegle@gmail.com
 
 You can click on the blue words.
 
-<div>
+<div align="center">
   <img alt="goku" src="https://d.newsweek.com/en/full/1014939/dragon-ball-super-movie-poster-confirmed-villain-broody-leak-san-diego-comic-con-trailer.jpg?w=1600&h=1600&q=88&f=c4925bd5d08a0dea0122c304806e18b1" height="500" />
 </div>
