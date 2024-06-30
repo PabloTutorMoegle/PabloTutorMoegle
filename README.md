@@ -16,4 +16,4 @@ You can contact me at this email address ---> pablotutormoegle@gmail.com
 
 You can click on the blue words.
 
-![image](https://github.com/PabloTutorMoegle/PabloTutorMoegle/assets/102219711/e367fa64-0a88-4bcc-a9cc-19b0408a6583)
+![image](https://github.com/PabloTutorMoegle/PabloTutorMoegle/assets/102219711/80c120d2-3d5b-4c41-bf3f-24a08b6069a3)
