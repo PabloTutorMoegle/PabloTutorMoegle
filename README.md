@@ -14,7 +14,6 @@ This are my sites (contact):
 
 You can contact me at this email address ---> pablotutormoegle@gmail.com
 
-Thanks.
-
 You can click on the blue words.
 
+![image](https://github.com/PabloTutorMoegle/PabloTutorMoegle/assets/102219711/f3c2a54a-8ee7-443d-b078-8fa5fa2d0a0c)
