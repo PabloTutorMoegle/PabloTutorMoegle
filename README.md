@@ -17,5 +17,6 @@ You can contact me at this email address ---> pablotutormoegle@gmail.com
 You can click on the blue words.
 
 <div align="center">
-  <img alt="goku" src="https://i.scdn.co/image/ab67616d0000b273bc878f1b50e73d7c34c8d01f" height="500" />
+  ![bakiVeniVidiVici](https://github.com/user-attachments/assets/e2baa687-b6eb-4817-b8db-55af5f2b4aac)
 </div>
+
