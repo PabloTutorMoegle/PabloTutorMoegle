@@ -4,7 +4,7 @@
 
 I am a computer science student.
 
-If you want to know more [About me](https://pablotutormoegle.github.io/aboutMe), I have this provional website.
+If you want to know more [About me](https://pablotutormoegledev.netlify.app/), I have this provional website.
 
 This are my sites (contact):
 
