@@ -16,6 +16,8 @@ You can contact me at this email address ---> pablotutormoegle@gmail.com
 
 You can click on the blue words.
 
-
+<div align="center">
+<img alt="baki" src="https://github.com/user-attachments/assets/fa4f3470-6019-4c67-bce1-4dca03c08a1b" width="500" />
+</div>
 
 ![bakiVeniVidiVici](https://github.com/user-attachments/assets/fa4f3470-6019-4c67-bce1-4dca03c08a1b)
