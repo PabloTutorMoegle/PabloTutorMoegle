@@ -10,7 +10,7 @@ This is my social media (contact):
 
 [LinkedIn](https://www.linkedin.com/in/pablo-tutor-moegle/)
 
-[Instagram](https://www.instagram.com/pablo_dev_tutor/)
+[Instagram](https://www.instagram.com/pablitoclavito17/)
 
 [X](https://x.com/PabloTutorM)
 
