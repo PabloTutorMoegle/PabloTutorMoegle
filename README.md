@@ -16,7 +16,7 @@ This is my social media (contact):
 
 You can contact me at this email address ---> pablotutormoegle@gmail.com
 
-<main align="center" flex="grid">
+<p align="center">
   <img alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50"/> 
   <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="50" height="50"/> 
   <img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50"/> 
@@ -29,7 +29,7 @@ You can contact me at this email address ---> pablotutormoegle@gmail.com
   <img alt="GIT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50" height="50"/> 
   <img alt="MYSQL" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="50" height="50"/> 
   <img alt="POSTGRESQL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4z-zIkPiGVxNEYZERKm_9zXbFtrgREO7LTA&s" width="50" height="50"/>
-</main>
+</p>
 
 "You can click on the blue words."
 
