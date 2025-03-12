@@ -33,8 +33,6 @@ Lenguages and tools:
   <img alt="POSTGRESQL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4z-zIkPiGVxNEYZERKm_9zXbFtrgREO7LTA&s" width="50" height="50"/>
 </p>
 
-"You can click on the blue words."
-
 <div align="center">
 <img alt="baki" src="https://github.com/user-attachments/assets/fa4f3470-6019-4c67-bce1-4dca03c08a1b" width="400" />
 </div>
