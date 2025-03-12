@@ -16,6 +16,8 @@ This is my social media (contact):
 
 You can contact me at this email address ---> pablotutormoegle@gmail.com
 
+Lenguages and tools:
+
 <p align="center">
   <img alt="JS" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50"/> 
   <img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="50" height="50"/> 
