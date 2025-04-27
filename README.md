@@ -38,7 +38,7 @@ Lenguages and tools:
   <img alt="QT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" width="50" height="50"/> 
   <img alt="GIT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50" height="50"/> 
   <img alt="MYSQL" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="50" height="50"/> 
-  <img alt="POSTGRESQL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4z-zIkPiGVxNEYZERKm_9zXbFtrgREO7LTA&s" width="50" height="50"/>
+  <img alt="POSTGRESQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="50" height="50"/>
 </p>
 
 <div align="center">
