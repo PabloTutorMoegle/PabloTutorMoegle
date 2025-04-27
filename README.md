@@ -8,9 +8,10 @@ If you want to know more [About me](https://pablotutormoegle-dev.vercel.app/), I
 
 This is my social media (contact):
 
-<div>
-  <img alt='LinkedIn' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' width="50" height="50" 
-    href='https://www.linkedin.com/in/pablo-tutor-moegle/' /> 
+<p align='left'>
+  <a href='https://www.linkedin.com/in/pablo-tutor-moegle/'>
+  <img alt='LinkedIn' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' width="50" height="50" />
+  </a>
 </div>
 
 [LinkedIn](https://www.linkedin.com/in/pablo-tutor-moegle/)
