@@ -32,7 +32,7 @@ Lenguages and tools:
   <img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50"/> 
   <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width="50" height="50"/> 
   <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50"/> 
-  <img alt="PY" src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="50" height="50"/> 
+  <img alt="PY" src='https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png' width="50" height="50"/> 
   <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="50" height="50"/> 
   <img alt="REACT" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="50" height="50"/> 
   <img alt="QT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" width="50" height="50"/> 
