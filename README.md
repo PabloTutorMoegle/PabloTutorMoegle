@@ -18,7 +18,7 @@ This is my social media (contact):
   </a>
   
   <a href='https://x.com/PabloTutorM'>
-  <img alt='X' src='https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png' width="50" height="50" />
+  <img alt='X' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj5Z6h2su_P2Dpy48AmTVcigVGKB5bsYuMZQ&s' width="50" height="50" />
   </a>
 </p>
 
