@@ -12,11 +12,11 @@ This is my social media (contact):
   <a href='https://www.linkedin.com/in/pablo-tutor-moegle/'>
   <img alt='LinkedIn' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' width="50" height="50" />
   </a>
-  
+  <br/>
   <a href='https://www.instagram.com/pablitoclavito17/'>
   <img alt='Instagram' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png' width="50" height="50" />
   </a>
-  
+  <br/>
   <a href='https://x.com/PabloTutorM'>
   <img alt='X' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj5Z6h2su_P2Dpy48AmTVcigVGKB5bsYuMZQ&s' width="50" height="50" />
   </a>
