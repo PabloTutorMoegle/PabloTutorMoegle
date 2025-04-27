@@ -12,13 +12,15 @@ This is my social media (contact):
   <a href='https://www.linkedin.com/in/pablo-tutor-moegle/'>
   <img alt='LinkedIn' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' width="50" height="50" />
   </a>
-</div>
-
-[LinkedIn](https://www.linkedin.com/in/pablo-tutor-moegle/)
-
-[Instagram](https://www.instagram.com/pablitoclavito17/)
-
-[X](https://x.com/PabloTutorM)
+  
+  <a href='https://www.instagram.com/pablitoclavito17/'>
+  <img alt='Instagram' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png' width="50" height="50" />
+  </a>
+  
+  <a href='https://x.com/PabloTutorM'>
+  <img alt='X' src='https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png' width="50" height="50" />
+  </a>
+</p>
 
 You can contact me at this email address ---> pablotutormoegle@gmail.com
 
