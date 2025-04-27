@@ -32,9 +32,9 @@ Lenguages and tools:
   <img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50"/> 
   <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width="50" height="50"/> 
   <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50"/> 
-  <img alt="PY" src='https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png' width="50" height="50"/> 
+  <img alt="PY" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945099.png?f=webp&w=256" width="50" height="50"/> 
   <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="50" height="50"/> 
-  <img alt="REACT" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" width="50" height="50"/> 
+  <img alt="REACT" src="https://ddxof.com/wp-content/uploads/2017/12/react.png" width="50" height="50"/> 
   <img alt="QT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1280px-Qt_logo_2016.svg.png" width="50" height="50"/> 
   <img alt="GIT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="50" height="50"/> 
   <img alt="MYSQL" src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="50" height="50"/> 
