@@ -2,6 +2,7 @@
 Hello there 👋<br>
 I am Pablo<br>
 I am a computer science student.<br>
+I don't wait for luck I work.<br>
 If you want to know more [About me](https://pablotutormoegle-dev.vercel.app/), I have this provisional website.<br>
 You can contact me at this email address ---> pablotutormoegle@gmail.com<br>
 
