@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablotutormoegle&label=Profile%20views&color=0e75b6&style=flat" alt="pablotutormoegle" /> </p>
 
-- 🔭 I’m currently working on [a remake from the game Adventure](https://github.com/PabloTutorMoegle/Personal_Games/tree/main/AdventureRemake)
+- 🔭 I’m currently working on a new videogame made 100% by me.
 
 - 🌱 I’m currently learning **everything i can.**
 
@@ -52,7 +52,3 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/a/astrojs.svg" alt="astro" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablotutormoegle&show_icons=true&locale=en&layout=compact" alt="pablotutormoegle" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablotutormoegle&show_icons=true&locale=en" alt="pablotutormoegle" /></p>
